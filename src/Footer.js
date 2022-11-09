@@ -6,7 +6,7 @@ function Footer() {
       <footer>
         <small>
           <a
-            href="https://github.com/mpallor/Weather-app-Final-project"
+            href="https://github.com/mpallor/weather-react"
             className="git-link"
             target="_blank"
             rel="noreferrer"
