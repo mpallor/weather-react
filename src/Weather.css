@@ -1,5 +1,12 @@
 .Weather {
   max-width: 600px;
+  background-image: url(/public/images/sky.jpg);
+  padding-bottom: 250px;
+  border-radius: 15px;
   margin: 20px auto;
   font-family: "Lato", sans-serif;
+}
+
+li {
+  text-decoration: none;
 }
